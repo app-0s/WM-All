@@ -1,0 +1,6 @@
+{
+	"ConnectionStrings": {
+		"TitleConnectionString": "server=(localdb)\\ProjectsV13;Database=Titles;Integrated Security=true;MultipleActiveResultSets=true;",
+		"TitleConnectionStringB": "Data Source=DESKTOP-UKH70Q0;Initial Catalog=Titles;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
+	}
+}
