@@ -1,4 +1,9 @@
-Setup Notes
+*** Overview ***
+Repository consists of 2 projects: 
+- Webservice: WM-API (Contains WM-Title project, created within Visual Studio)
+- Front-End (React) - WM-Front/titles-front/ (Created with create-react-app/Visual Studio Code)
+
+*** Setup Notes ***
 
 SQL Server
 - Using SSMS (or any DBMS), open the SeedData_Titles.sql file. Execute the script
