@@ -1,3 +1,5 @@
+Setup Notes
+
 SQL Server
 - Using SSMS (or any DBMS), open the SeedData_Titles.sql file. Execute the script
 
